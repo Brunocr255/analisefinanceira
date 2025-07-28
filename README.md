@@ -92,4 +92,5 @@ Observações:
 ---
 
 **Autor**
+---
 Análise elaborada por Bruno Rodrigues.
